@@ -11,9 +11,9 @@ Main obejctive of this project is to detect anomalies in transactions. By levera
 ### Data Preprocessing
 Before performing anomaly detection, conducted data preparation and preprocessing involving examining data types and identifying any missing values. Additionally, exploratory data analysis (EDA) was carried out through visualizations to identify relevant features that contribute to detecting anomalies. By plots, one can see there are anomalies in "Trasaction_Amount" features.
 
-![image alt](box_plots.png)
+![Image 1](box_plots.png)
 
-![image alt](Transaction_Amount distribution.png)
+![Image 2](Transaction_Amount_distribution.png)
 
 ### Anomaly Detection
 
