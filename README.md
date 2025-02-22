@@ -13,6 +13,7 @@ Before performing anomaly detection, conducted data preparation and preprocessin
 
 ![image alt](box_plots.png)
 
+![image alt](Transaction_Amount distribution.png)
 
 ### Anomaly Detection
 
