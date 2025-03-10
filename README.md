@@ -1,7 +1,7 @@
 # Anomaly-Detection-in-Financial-Transactions
 
 ## Overview
-Main obejctive of this project is to detect anomalies in transactions. By leveraging statistical methods and anomaly detection algorithms, one can identify fraudulent or suspicious activities in transactional data.
+Main objective of this project is to detect anomalies in transactions. By leveraging statistical methods and anomaly detection algorithms, one can identify fraudulent or suspicious activities in transactional data.
 
 ## Dataset
 [Transactional Anomalies Dataset](https://www.kaggle.com/datasets/agitamuhammad/transactional-anomalies-dataset) consists of 1000 transactions data with 12 features.
